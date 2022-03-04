@@ -8,6 +8,5 @@ public class JavaTypes {
         float tFloat;
         double tDouble;
         long tLong;
-        String tString;
     }
 }
