@@ -50,6 +50,7 @@ class TestClass {
 
         tBoolean = true;
         System.out.println(true != (tFloat > tDouble));
+        System.out.println("The End");
     }
 
 }
